@@ -17,7 +17,7 @@ Simply, just run `GameWindow.java` as an application using either:
 
 2. IDE.
 
-# Thing I learnt when making this:
+# What did I learn from this:
 
  1. Making GUI applications in Java using Swing.
  2. Designing Java classes and methods based on low detailed specification.
